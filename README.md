@@ -1,13 +1,10 @@
 ## Olá, meu nome é Pedro 😁🤙
 ## Hey, my name is Pedro 😄✌
 
-- 🏫 Estou cursando o sétimo período de Engenharia de Software.
-- 🔭 Atualmente sou programador júnior, no qual atuo no front-end e back-end.
-- 🖥️ As linguagens que eu trabalho são TypeScript e Java.
+- 🏫 Estou cursando o sétimo período de Engenharia de Software. I'm studying the seventh period of Software Engineering.
+- 🔭 Atualmente sou programador júnior, no qual atuo no front-end e back-end. I am currently a junior programmer, working on the front-end and back-end.
+- 🖥️ As linguagens que eu trabalho são TypeScript e Java. The languages I work with are TypeScript and Java.
 
-- 🏫 I'm studying the seventh period of Software Engineering.
-- 🔭 I am currently a junior programmer, working on the front-end and back-end.
-- 🖥️ The languages I work with are TypeScript and Java.
 
 
 <div align="center">
