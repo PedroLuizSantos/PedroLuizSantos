@@ -1,5 +1,4 @@
-## Olá, meu nome é Pedro 😁🤙
-## Hey, my name is Pedro 😄✌
+## Olá, meu nome é Pedro. Hey, my name is Pedro 😄✌
 
 - 🏫 Estou cursando o sétimo período de Engenharia de Software. 
 - I'm studying the seventh period of Software Engineering.
